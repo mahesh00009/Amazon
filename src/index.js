@@ -11,7 +11,6 @@ root.render(
     <BrowserRouter>
 
     <StateProvider initialState={initialState} reducer = {reducer} >
-        
 
     <App />
      </StateProvider>
